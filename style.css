@@ -1,8 +1,7 @@
 body{
   background-image:url(picture.gif);
   background-repeat:no-repeat;
-  background-attachment:fixed;
   background-color:#243CED;
+  background-position:50px 50px;
   color:yellow;
 }
-
