@@ -1,10 +1,10 @@
-a{
-  text-decoration:none;
-  text-align:center;
+p#sc{
+  text-transform:capitalize;
 }
-a:hover{
-  text-decoration:underline;
-}   
-p{
-  text-indent:1.2em;
+p#su{
+  text-transform:uppercase;
 }
+p#sl{
+  text-transform:lowercase;
+}
+    
