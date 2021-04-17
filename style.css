@@ -1,6 +1,10 @@
 p#sn, p#so, p#si{
-  font-family: Verdana, sans-serif;
+  font:italic 12px Verdana, sans-serif;
 }
 p#so{
-  font-weight:bold;
+  font-size:1.2em;
 }
+p#si{
+  font-style:normal;
+}
+    
