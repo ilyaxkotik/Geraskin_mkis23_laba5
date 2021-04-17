@@ -2,5 +2,5 @@ p#sn, p#so, p#si{
   font-family: Verdana, sans-serif;
 }
 p#so{
-  font-variant:small-caps;
+  font-weight:bold;
 }
